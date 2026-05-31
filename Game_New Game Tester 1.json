@@ -8,16 +8,21 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/Kiba-Duelist/BetaGames/refs/heads/Multiwar/CardList.json",
+    "dataUrl": "https://raw.githubusercontent.com/Kiba-Duelist/Clash-of-Villains/refs/heads/Card-Games/CardList.json",
     "cardBack": ""
   },
   "deckBuilding": {
-    "mainFilters": [],
+    "mainFilters": [
+      "Monster"
+    ],
     "formats": [
       {
         "title": "Classic",
         "gameplay": "Normal_Mode",
-        "customCategories": []
+        "customCategories": [
+          "Main Deck",
+          "Extra Deck"
+        ]
       }
     ]
   },
