@@ -216,9 +216,9 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Extra_Deck": {
-            "title": "Extra_Deck",
-            "isHidden": "opponent-only",
+          "Deck": {
+            "title": "Deck",
+            "isHidden": "yes",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
