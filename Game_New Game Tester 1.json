@@ -13,7 +13,8 @@
   },
   "deckBuilding": {
     "mainFilters": [
-      "Monster"
+      "Monster",
+      "Extra"
     ],
     "formats": [
       {
@@ -115,6 +116,42 @@
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
+          "Hand": {
+            "isDefaultSection": true,
+            "title": "Hand",
+            "isHidden": "opponent-only",
+            "height": "DEFAULT",
+            "alignment": "CENTER",
+            "autoPayFrom": true,
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "reverseZOrder": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Discard": {
+            "isDefaultSection": true,
+            "title": "Discard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
           "Monster_1": {
             "title": "Monster_1",
             "isHidden": "no",
@@ -178,6 +215,22 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
+          },
+          "Extra_Deck": {
+            "title": "Extra_Deck",
+            "isHidden": "opponent-only",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": true
           }
         }
       }
