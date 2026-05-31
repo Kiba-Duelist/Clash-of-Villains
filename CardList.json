@@ -15,22 +15,6 @@
     "type": "Creature",
     "cost": 0
   },
-  "Beta-02/1": {
-    "id": "Beta2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Shadow Testers",
-        "type": "Creature",
-        "cost": 0,
-        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/02.png?raw=true",
-        "isHorizontal": false
-      }
-    },
-    "name": "Shadow Testers",
-    "type": "Creature",
-    "cost": 0
-  },
   "Beta-03": {
     "id": "Beta-03",
     "isToken": false,
@@ -157,6 +141,22 @@
     },
     "name": "Tests To Break",
     "type": "Break",
+    "cost": 0
+  },
+  "Beta-02": {
+    "id": "Beta-02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shadow Testers",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/02.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadow Testers",
+    "type": "Creature",
     "cost": 0
   }
 }
