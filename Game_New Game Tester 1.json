@@ -37,7 +37,7 @@
         "drawNewSelectedCards": false
       },
       "newTurn": {
-        "drawOnStart": true,
+        "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
@@ -60,7 +60,7 @@
         ],
         "layout": {
           "direction": "column",
-          "isSymetricalForOpponents": false,
+          "isSymetricalForOpponents": true,
           "content": [
             {
               "direction": "row",
@@ -87,7 +87,7 @@
                   "style": false
                 }
               ],
-              "isSymetricalForOpponents": false
+              "isSymetricalForOpponents": true
             },
             {
               "direction": "row",
@@ -102,7 +102,7 @@
                   "style": false
                 }
               ],
-              "isSymetricalForOpponents": false
+              "isSymetricalForOpponents": true
             }
           ]
         },
@@ -316,7 +316,7 @@
           "Damage_Zone": {
             "title": "Damage_Zone",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -349,4 +349,5 @@
       }
     }
   }
+}
 }
