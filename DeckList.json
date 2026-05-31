@@ -1,0 +1,84 @@
+[
+  {
+  "title": "Truth Deck",
+  "id": "fcdb6311-7579-420e-a6d2-9bbf7ee9cae5",
+  "cardCount": 10,
+  "createdAt": "2026-05-31T20:45:11.785Z",
+  "lastModifiedAt": "2026-05-31T22:56:51.482Z",
+  "game": "New Game Tester 1",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Creature",
+      "Magic"
+    ],
+    "Creature": [
+      {
+        "count": 3,
+        "id": "Beta-04"
+      },
+      {
+        "count": 2,
+        "id": "Beta-05"
+      },
+      {
+        "count": 1,
+        "id": "Beta-06"
+      }
+    ],
+    "Magic": [
+      {
+        "count": 2,
+        "id": "Beta-09"
+      },
+      {
+        "count": 2,
+        "id": "Beta-07"
+      }
+    ]
+  }
+},
+{
+  "title": "Shadow Deck",
+  "id": "f651ab0c-7df5-412c-9a05-037c680f22fa",
+  "cardCount": 10,
+  "createdAt": "2026-05-31T06:18:29.628Z",
+  "lastModifiedAt": "2026-05-31T22:58:31.154Z",
+  "game": "New Game Tester 1",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Creature",
+      "Magic"
+    ],
+    "Creature": [
+      {
+        "count": 3,
+        "id": "Beta-01"
+      },
+      {
+        "count": 2,
+        "id": "Beta-02"
+      },
+      {
+        "count": 1,
+        "id": "Beta-03"
+      }
+    ],
+    "Magic": [
+      {
+        "count": 2,
+        "id": "Beta-08"
+      },
+      {
+        "count": 2,
+        "id": "Beta-07"
+      }
+    ]
+  }
+}
+]
