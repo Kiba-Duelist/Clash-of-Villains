@@ -14,5 +14,22 @@
     "name": "Beta",
     "type": "Monster",
     "cost": 0
+  },
+  "Beta-02": {
+    "id": "Beta-02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Extra Beta",
+        "type": "Extra",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/Card-Games/Extra%20Creature.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Extra Beta",
+    "type": "Extra",
+    "cost": 0,
+    "": ""
   }
 }
