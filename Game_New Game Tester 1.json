@@ -3,7 +3,7 @@
   "menuBackgroundImage": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/main/Icon%201.png?raw=true",
   "defaultRessources": {
     "backgrounds": [],
-    "decksUrl": ""
+    "decksUrl": "https://raw.githubusercontent.com/Kiba-Duelist/Clash-of-Villains/refs/heads/Card-Games/DeckList.json"
   },
   "customHelp": "",
   "cardRotation": 90,
@@ -60,7 +60,7 @@
         ],
         "layout": {
           "direction": "column",
-          "isSymetricalForOpponents": true,
+          "isSymetricalForOpponents": false,
           "content": [
             {
               "direction": "row",
@@ -87,7 +87,7 @@
                   "style": false
                 }
               ],
-              "isSymetricalForOpponents": true
+              "isSymetricalForOpponents": false
             },
             {
               "direction": "row",
@@ -102,7 +102,7 @@
                   "style": false
                 }
               ],
-              "isSymetricalForOpponents": true
+              "isSymetricalForOpponents": false
             }
           ]
         },
@@ -349,5 +349,4 @@
       }
     }
   }
-}
 }
