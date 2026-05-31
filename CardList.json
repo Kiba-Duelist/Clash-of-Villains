@@ -4,32 +4,159 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Beta Monster",
-        "type": "Monster",
+        "name": "Cute Tester",
+        "type": "Creature",
         "cost": 0,
-        "image": "https://github.com/Kiba-Duelist/BetaGames/blob/Multiwar/Basic%20Creature.png?raw=true",
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/01.png?raw=true",
         "isHorizontal": false
       }
     },
-    "name": "Beta",
-    "type": "Monster",
+    "name": "Cute Tester",
+    "type": "Creature",
     "cost": 0
   },
   "Beta-02": {
-    "id": "Beta-02",
+    "id": "Beta2",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Extra Beta",
-        "type": "Extra",
+        "name": "Shadow Testers",
+        "type": "Creature",
         "cost": 0,
-        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/Card-Games/Extra%20Creature.png?raw=true",
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/02.png?raw=true",
         "isHorizontal": false
       }
     },
-    "name": "Extra Beta",
-    "type": "Extra",
-    "cost": 0,
-    "": ""
+    "name": "Shadow Testers",
+    "type": "Creature",
+    "cost": 0
+  },
+  "Beta-03": {
+    "id": "Beta-03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shadower Test",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/03.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadower Test",
+    "type": "Creature",
+    "cost": 0
+  },
+  "Beta-04": {
+    "id": "Beta-04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Smoke Test",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/04.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Smoke Test",
+    "type": "Creature",
+    "cost": 0
+  },
+  "Beta-05": {
+    "id": "Beta-05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Truthfull Test",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/05.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Truthfull Test",
+    "type": "Creature",
+    "cost": 0
+  },
+  "Beta-06": {
+    "id": "Beta-06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tests Of Truth",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/06.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tests Of Truth",
+    "type": "Creature",
+    "cost": 0
+  },
+  "Beta-07": {
+    "id": "Beta-07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sans Dodge",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/07.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sans Dodge",
+    "type": "Magic",
+    "cost": 0
+  },
+  "Beta-08": {
+    "id": "Beta-08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shadow Hands",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/08.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadow Hands",
+    "type": "Magic",
+    "cost": 0
+  },
+  "Beta-09": {
+    "id": "Beta-09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Truth Nuke",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/09.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Truth Nuke",
+    "type": "Magic",
+    "cost": 0
+  },
+  "Beta-10": {
+    "id": "Beta-10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tests To Break",
+        "type": "Break",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/10.png?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Tests To Break",
+    "type": "Break",
+    "cost": 0
   }
 }
