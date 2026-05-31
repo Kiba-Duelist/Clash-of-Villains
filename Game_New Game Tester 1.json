@@ -316,7 +316,7 @@
           "Damage_Zone": {
             "title": "Damage_Zone",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
