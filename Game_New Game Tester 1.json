@@ -6,7 +6,7 @@
     "decksUrl": ""
   },
   "customHelp": "",
-  "cardRotation": 45,
+  "cardRotation": 90,
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/Kiba-Duelist/Clash-of-Villains/refs/heads/Card-Games/CardList.json",
     "cardBack": ""
@@ -252,7 +252,7 @@
           "Monster_4": {
             "title": "Monster_4",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "BIG",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -268,7 +268,7 @@
           "Monster_3": {
             "title": "Monster_3",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "BIG",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -284,7 +284,7 @@
           "Monster_2": {
             "title": "Monster_2",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "BIG",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
