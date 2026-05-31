@@ -1,0 +1,18 @@
+{
+  "Beta-01": {
+    "id": "Beta-01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Beta Monster",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/BetaGames/blob/Multiwar/Basic%20Creature.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beta",
+    "type": "Monster",
+    "cost": 0
+  }
+}
