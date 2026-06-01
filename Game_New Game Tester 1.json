@@ -20,10 +20,7 @@
       {
         "title": "Classic",
         "gameplay": "Normal_Mode",
-        "customCategories": [
-          "Main Deck",
-          "Extra Deck"
-        ]
+        "customCategories": []
       }
     ]
   },
@@ -60,7 +57,7 @@
         ],
         "layout": {
           "direction": "column",
-          "isSymetricalForOpponents": false,
+          "isSymetricalForOpponents": true,
           "content": [
             {
               "direction": "row",
@@ -87,7 +84,7 @@
                   "style": false
                 }
               ],
-              "isSymetricalForOpponents": false
+              "isSymetricalForOpponents": true
             },
             {
               "direction": "row",
@@ -102,7 +99,7 @@
                   "style": false
                 }
               ],
-              "isSymetricalForOpponents": false
+              "isSymetricalForOpponents": true
             }
           ]
         },
