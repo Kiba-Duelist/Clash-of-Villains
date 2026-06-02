@@ -57,7 +57,7 @@
         ],
         "layout": {
           "direction": "column",
-          "isSymetricalForOpponents": true,
+          "isSymetricalForOpponents": false,
           "content": [
             {
               "direction": "row",
@@ -78,9 +78,13 @@
                 {
                   "section": "Monster_4",
                   "style": false
+                },
+                {
+                  "section": "Extra_Deck",
+                  "style": false
                 }
               ],
-              "isSymetricalForOpponents": true
+              "isSymetricalForOpponents": false
             },
             {
               "direction": "row",
@@ -93,13 +97,9 @@
                 {
                   "section": "Damage_Zone",
                   "style": false
-                },
-                {
-                  "section": "Extra_Deck",
-                  "style": false
                 }
               ],
-              "isSymetricalForOpponents": true
+              "isSymetricalForOpponents": false
             }
           ]
         },
