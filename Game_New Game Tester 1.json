@@ -78,10 +78,6 @@
                 {
                   "section": "Monster_4",
                   "style": false
-                },
-                {
-                  "section": "Extra_Deck",
-                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -96,6 +92,10 @@
                 },
                 {
                   "section": "Damage_Zone",
+                  "style": false
+                },
+                {
+                  "section": "Extra_Deck",
                   "style": false
                 }
               ],
