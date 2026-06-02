@@ -28,7 +28,7 @@
     "Normal_Mode": {
       "mulligan": {
         "info": "",
-        "startingHandSize": "5",
+        "startingHandSize": "3",
         "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
