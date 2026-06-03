@@ -127,22 +127,6 @@
     "type": "Magic",
     "cost": 0
   },
-  "Beta-10": {
-    "id": "Beta-10",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Tests To Break",
-        "type": "Break",
-        "cost": 0,
-        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/10.png?raw=true",
-        "isHorizontal": true
-      }
-    },
-    "name": "Tests To Break",
-    "type": "Break",
-    "cost": 0
-  },
   "Beta-02": {
     "id": "Beta-02",
     "isToken": false,
@@ -156,6 +140,182 @@
       }
     },
     "name": "Shadow Testers",
+    "type": "Creature",
+    "cost": 0
+  },
+  "Beta-10": {
+    "id": "Beta-10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shadows Circle",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Kiba-Duelist/Clash-of-Villains/dbd05f7fd1fde52f87615ddeb319b65f2624f882/10.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadows Circle",
+    "type": "Magic",
+    "cost": 0
+  },
+  "Beta-11": {
+    "id": "Beta-11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Truths Circle",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Kiba-Duelist/Clash-of-Villains/refs/heads/New/11.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Truths Circle",
+    "type": "Magic",
+    "cost": 0
+  },
+  "Beta-12-Alt": {
+    "id": "Beta-12-Alt",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pure Vanilla",
+        "type": "Summoned",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/12%20Alt.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pure Vanilla",
+    "type": "Summoned",
+    "cost": 0
+  },
+  "Beta-12": {
+    "id": "Beta-12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pure Vanilla",
+        "type": "Summoned",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/12.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pure Vanilla",
+    "type": "Summoned",
+    "cost": 0
+  },
+  "Beta-13-Alt": {
+    "id": "Beta-13-Alt",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shadow Milk",
+        "type": "Summoned",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/13%20Alt.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadow Milk",
+    "type": "Summoned",
+    "cost": 0
+  },
+  "Beta-13": {
+    "id": "Beta-13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shadow Milk",
+        "type": "Summoned",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/13.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadow Milk",
+    "type": "Summoned",
+    "cost": 0
+  },
+  "Beta-14": {
+    "id": "Beta-14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wanted",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/14.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wanted",
+    "type": "Magic",
+    "cost": 0
+  },
+  "Beta-15": {
+    "id": "Beta-15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shadows Of Mending",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/15.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadows Of Mending",
+    "type": "Magic",
+    "cost": 0
+  },
+  "Beta-16": {
+    "id": "Beta-16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Have Faith",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/16.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Have Faith",
+    "type": "Magic",
+    "cost": 0
+  },
+  "Beta-17": {
+    "id": "Beta-17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Truthful Jelly Bunny",
+        "type": "Creature",
+        "cost": "0",
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/17.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Truthful Jelly Bunny",
+    "type": "Creature",
+    "cost": 0
+  },
+  "Beta-18": {
+    "id": "Beta-18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shadow Catcopus",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://github.com/Kiba-Duelist/Clash-of-Villains/blob/New/18.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadow Catcopus",
     "type": "Creature",
     "cost": 0
   }
