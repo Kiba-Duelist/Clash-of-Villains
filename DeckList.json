@@ -1,5 +1,6 @@
+[
 {
-  "title": "???",
+  "title": "Truth Deck",
   "id": "22eb4589-6b8a-44a7-b0c1-af9c5db2c75c",
   "cardCount": 20,
   "createdAt": "2026-06-01T23:06:31.051Z",
@@ -61,4 +62,69 @@
       }
     ]
   }
+},
+{
+  "title": "Shadow Deck",
+  "id": "22eb4589-6b8a-44a7-b0c1-af9c5db2c75c",
+  "cardCount": 20,
+  "createdAt": "2026-06-01T23:06:31.051Z",
+  "lastModifiedAt": "2026-06-01T23:06:31.051Z",
+  "game": "Meta Wars",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Summoned",
+      "Creature",
+      "Magic"
+    ],
+    "Summoned": [
+      {
+        "count": 1,
+        "id": "Beta-13"
+      }
+    ],
+    "Creature": [
+      {
+        "count": 3,
+        "id": "Beta-01"
+      },
+      {
+        "count": 2,
+        "id": "Beta-02"
+      },
+      {
+        "count": 3,
+        "id": "Beta-18"
+      },
+      {
+        "count": 2,
+        "id": "Beta-03"
+      }
+    ],
+    "Magic": [
+      {
+        "count": 2,
+        "id": "Beta-07"
+      },
+      {
+        "count": 2,
+        "id": "Beta-14"
+      },
+      {
+        "count": 3,
+        "id": "Beta-08"
+      },
+      {
+        "count": 1,
+        "id": "Beta-10"
+      },
+      {
+        "count": 1,
+        "id": "Beta-15"
+      }
+    ]
+  }
 }
+]
